@@ -1,0 +1,27 @@
+html {
+  // make rem base 10 (default is 16px)
+  font-size: 62.5%;
+}
+
+body {
+  background-color: $dark-blue;
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+  font-size: $m-size;
+}
+
+button {
+  cursor: pointer;
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+}
+
+button:disabled {
+  cursor: default;
+}
+
+button:focus {
+  outline: 0;
+}
+
+input:focus {
+  outline: 0;
+}
