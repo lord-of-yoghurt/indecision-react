@@ -4,6 +4,8 @@ This is a simple app that allows the user to enter some choices they're struggli
 and let the computer make the decision! The app is fully responsive, and it uses simple data persistence
 via JavaScript's `localStorage`.
 
+This app is part of Andrew Mead's "Complete React Web Developer 2.0" course on Udemy.
+
 ## Usage
 
 To install and run Indecision on your local server, clone the repo first:
