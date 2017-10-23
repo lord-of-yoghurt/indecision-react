@@ -21,8 +21,13 @@ Finally, run the npm task that starts the Webpack dev server:
 
 The app will load on your localhost:8080.
 
-Stack:
+## Stack
 
 - React.JS with Webpack
 - HTML
 - SCSS
+
+## Screenshots
+
+![Screenshot 1](/public/images/screenshot1.png)
+![Screenshot 2](/public/images/screenshot2.png)
