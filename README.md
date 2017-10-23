@@ -1,7 +1,8 @@
 # Indecision
 
 This is a simple app that allows the user to enter some choices they're struggling to decide between,
-and let the computer make the decision!
+and let the computer make the decision! The app is fully responsive, and it uses simple data persistence
+via JavaScript's `localStorage`.
 
 ## Usage
 
