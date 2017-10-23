@@ -7,7 +7,7 @@ and let the computer make the decision!
 
 To install and run Indecision on your local server, clone the repo first:
 
-`git clone ...`
+`git clone git@github.com:lord-of-yoghurt/indecision-react.git`
 
 Then, install all the dependencies. I have avoided using global dependencies, so everything this app needs
 will be installed locally.
@@ -22,6 +22,6 @@ The app will load on your localhost:8080.
 
 Stack:
 
-- React.JS
+- React.JS with Webpack
 - HTML
 - SCSS
